@@ -1,6 +1,6 @@
 ### Hi I'm Shiv Sondhi 👋
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=shivsondhi)](https://github.com/shivsondhi)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=shivsondhi&count_private=true&theme=gruvbox)](https://github.com/shivsondhi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivsondhi&layout=compact)](https://github.com/shivsondhi)
 
 - 🔭 I’m currently working on a personal website.
