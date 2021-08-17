@@ -1,8 +1,7 @@
-### Shiv Sondhi 
+### Hi I'm Shiv Sondhi 
 
-![Shiv’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shivsondhi&theme=synthwave&show_icons=true&count_private=true “Shiv’s GutHub Stats”)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivsondhi&theme=synthwave “Shiv’s Top Languages Card”)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=shivsondhi)](https://github.com/shivsondhi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivsondhi&layout=compact)](https://github.com/shivsondhi)
 
 - 🔭 I’m currently working on a personal website.
 - 👯 I’m looking to collaborate on anything related to blockchain or written in python.
