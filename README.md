@@ -1,10 +1,10 @@
 ### Hi I'm Shiv 👋
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=shivsondhi&count_private=true&theme=gruvbox)](https://github.com/shivsondhi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivsondhi&layout=compact&theme=gruvbox)](https://github.com/shivsondhi)
+[![Shiv’s github stats](https://github-readme-stats.vercel.app/api?username=shivsondhi&count_private=true&theme=gruvbox)](https://github.com/shivsondhi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivsondhi&count_private=true&layout=compact&theme=gruvbox)](https://github.com/shivsondhi)
 
-- 🔭 I’m currently working on a blockchain-based last-mile delivery system.
-- 👯 Open to collaborate on anything written in python.
+- 🔭 I’m currently working on a blockchain project.
+- 👯 Open to collaborate on anything written in python. 
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/shivsondhi/">![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
